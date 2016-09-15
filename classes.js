@@ -33,6 +33,6 @@ function three() {
 
 function makeVisible() {
   var makeVisible = document.getElementsByClassName('invisible')[0]
-makeVisible.classList.remove('invisible')[0]
-makeVisible.classList.add('visible')[0]
+makeVisible.classList.remove('invisible')
+makeVisible.classList.add('visible')
 }
